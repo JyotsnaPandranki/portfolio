@@ -34,10 +34,6 @@ export default function App() {
           <div className="brand-lockup">
             <div className="brand-mark">{portfolioData.brandMark}</div>
 
-            <div>
-              <p className="brand-kicker">Internship-ready portfolio</p>
-              <h1 className="brand-name">{portfolioData.fullName}</h1>
-            </div>
           </div>
 
           <a
